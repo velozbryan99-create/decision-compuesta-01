@@ -1,6 +1,6 @@
 """
     Ejemplo de estructura de condicional
-    simple
+    simple actualizado 
 """
 # variable edad, asume el valor ingresado por teclado
 edad = input("Ingrese la edad de la persona: ")
